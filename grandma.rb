@@ -15,9 +15,9 @@
 speak_to_grandma = "I LOVE YOU GRANDMA!".upcase
 
 if speak_to_grandma == "i love you grandma!"
-  puts HUH?! SPEAK UP, SONNY!
+  puts "HUH?! SPEAK UP, SONNY!" .upcase
   elsif speak_to_grandma == "WHAT DID YOU SAY?" .upcase
-  puts NO, NOT SINCE 1938!
+  puts "NO, NOT SINCE 1938!" .upcase
 else 
   puts "I LOVE YOU TOO PUMPKIN!" .upcase
 end
